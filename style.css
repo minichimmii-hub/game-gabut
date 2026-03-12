@@ -1,0 +1,9 @@
+body{
+background:#87CEEB;
+font-family:Arial;
+text-align:center;
+}
+
+canvas{
+border:3px solid black;
+}
